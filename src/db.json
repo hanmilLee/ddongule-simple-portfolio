@@ -1,58 +1,57 @@
 {
   "meta": {
     "title": "DP for your portfolio",
-    "defaultLanguage": "English"
+    "defaultLanguage": "Korean"
   },
   "aboutMe": {
-    "name": "Min Kyung Kang",
-    "nickName": "nickName!",
+    "name": "이한밀",
+    "nickName": "Han Mil's resume",
     "profileImg": "../assets/images/me.gif",
-    "email": "mnk918p@gmail.com",
-    "githubUrl": "https://github.com/ddongule",
-    "blogUrl": "https://mingule.tistory.com/",
-    "linkedInUrl": "https://www.linkedin.com/"
+    "email": "94hanmil@gmail.com",
+    "Personal Notion Study page":"https://grave-sweater-b60.notion.site/Study-7ea51ea065e04403979564f1be08af44",
+    "githubUrl": "https://github.com/hanmilLee",
+    "linkedInUrl": "https://www.linkedin.com/in/hanmil-lee-828a57187"
   },
 
   "skillSets": [
     {
-      "category": "Front End Skills",
+      "category": "Back End",
       "skills": [
-        { "skill": "Javascript", "level": "5" },
-        { "skill": "HTML/CSS(SASS)", "level": "5" },
-        { "skill": "React", "level": "5" },
-        { "skill": "Typescript", "level": "4" }
-      ]
-    },
-    {
-      "category": "Back End Skills",
-      "skills": [
+        { "skill": "Greenplum Database", "level": "4" },
         { "skill": "Python", "level": "3" },
-        { "skill": "Django", "level": "2" },
-        { "skill": "Django-Rest-Framework", "level": "1" },
-        { "skill": "Java", "level": "5" },
-        { "skill": "Spring", "level": "5" },
-        { "skill": "Ruby", "level": "4" },
-        { "skill": "Ruby-on-Rails", "level": "5" }
+        { "skill": "Django", "level": "3" },
+        { "skill": "Dash", "level": "4" },
+        { "skill": "Java", "level": "2" },
+        { "skill": "Flutter", "level": "3" }
       ]
     },
     {
-      "category": "Collaboration Skills",
+      "category": "Front End",
       "skills": [
-        { "skill": "Git/Github" },
+        { "skill": "Javascript", "level": "2" },
+        { "skill": "HTML/CSS(SASS)", "level": "3" },
+        { "skill": "React", "level": "3" }
+      ]
+    },
+    {
+      "category": "Collaboration",
+      "skills": [
+        { "skill": "Git/Github/GitLab" },
         { "skill": "Notion" },
         { "skill": "Slack" },
-        { "skill": "Swit" }
+        { "skill": "Trello" },
+        { "skill": "Jira" },
+        { "skill": "Confluence" }
       ]
     },
     {
       "category": "Etc...",
       "skills": [
-        { "skill": "Netlify" },
-        { "skill": "Heroku" },
-        { "skill": "Pythonanywhere" },
+        { "skill": "BI Tool(MSTR/Spotfire)" },
+        { "skill": "Data warehouse" },
         { "skill": "AWS EC2" },
-        { "skill": "AWS Beanstalk" },
-        { "skill": "Docker" }
+        { "skill": "Nginx" },
+        { "skill": "vSphere" }
       ]
     }
   ],
@@ -82,22 +81,34 @@
 
   "timestamp": [
     {
-      "title": "Woowa Sisters",
-      "when": "21.12 ~ ",
-      "organizer": "Woowa Sisters",
+      "title": "삼성전자",
+      "when": "21.09 ~ ",
+      "organizer": "DIT Center",
       "tags": ["company"]
     },
 
     {
-      "title": "2021 Woowa Tech Course 3th",
-      "when": "21.02.01 - 21.11.31",
-      "organizer": "Woowa Bros",
-      "tags": ["techcourse"]
+      "title": "삼성전자 Internship",
+      "when": "2018.07 - 2018.08",
+      "organizer": "Smart IT team",
+      "tags": ["Internship"]
     },
     {
-      "title": "우아한 대학교 (Woowa University)",
-      "when": "20.08.25",
-      "organizer": "University of Woowa",
+      "title": "대학원 Internship",
+      "when": "2018.03 - 2018.06",
+      "organizer": "성균관대 시스템제어 및 최적화 연구실",
+      "tags": ["Internship"]
+    },
+    {
+      "title": "대학원 Internship",
+      "when": "2017.09 - 2017.12",
+      "organizer": "성균관대 Business Analytics & Optimizaion 연구실",
+      "tags": ["Internship"]
+    },
+    {
+      "title": "성균관대학교(Sungkyunkwan University) 학사",
+      "when": "2013 - 2018",
+      "organizer": "산업공학, 기계공학 복수전공",
       "tags": ["graduation"]
     }
   ],
@@ -116,19 +127,6 @@
       "term": "19.11 - 21.03",
       "description": "The Experiences that I have in Woowa Corp. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia .. ",
       "experienceUrl": "https://woowacourse.github.io/"
-    }
-  ],
-
-  "educations": [
-    {
-      "title": "우아한 대학교 (Woowa University)",
-      "term": "2013.03 - 2017.03",
-      "description": "척척박사 졸업"
-    },
-    {
-      "title": "잠실 고등학교 (Jamsil High School)",
-      "term": "2010.03 - 2013.02",
-      "description": "인문계 졸업"
     }
   ]
 }
